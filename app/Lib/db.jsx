@@ -1,0 +1,1 @@
+export const dblink="mongodb+srv://minihacktakon:minihacktakon@cluster0.bt3n1oe.mongodb.net/?retryWrites=true&w=majority";
